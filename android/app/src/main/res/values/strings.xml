@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phsychobabble</string>
+    <string name="open">Open sidebar</string>
+    <string name="close">Close sidebar</string>
+</resources>
